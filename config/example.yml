@@ -1,0 +1,4 @@
+records:
+  - hostname: "baz.com"
+    username: "foo"
+    password: "bar"
